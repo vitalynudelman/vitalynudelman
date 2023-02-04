@@ -17,4 +17,4 @@ As a Junior DevOps Engineer I've got the knowlegde in the following tools:
 I am constantly learning and expanding my skill set to tackle challenging projects. I am excited to share my work and connect with others in the tech community. Thanks for visiting!
 Foobar is a Python library for dealing with word pluralization.
 
-🇺🇦SUPPORT UKRAINE🇺🇦
+:ukraine:SUPPORT UKRAINE:ukraine:
