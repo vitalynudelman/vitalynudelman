@@ -15,7 +15,6 @@ As a Junior DevOps Engineer I've got the knowlegde in the following tools:
 * Terraform
 * Ansible (currently learning)
 
-I am constantly learning and expanding my skill set to tackle challenging projects. I am excited to share my work and connect with others in the tech community. Thanks for visiting!
-Foobar is a Python library for dealing with word pluralization.
+I am constantly learning and expanding my skill set. I am excited to share my work, connect and learn from others in the tech community. Thanks for visiting!
 
 :large_blue_circle:	:yellow_circle: SUPPORT UKRAINE :yellow_circle: :large_blue_circle: 
