@@ -6,6 +6,7 @@ My name is Vitaly, I am a Junior DevOps Engineer, passionate about utilizing tec
 As a Junior DevOps Engineer I've got the knowlegde in the following tools:
 
 * Linux
+* Bash 
 * Git
 * Nexus Repository 
 * Jenkins
