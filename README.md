@@ -11,7 +11,7 @@ As a Junior DevOps Engineer I've got the knowlegde in the following tools:
 * Nexus Repository 
 * Jenkins
 * Docker
-* Kubernetes
+* Kubernetes, Helm 
 * AWS
 * Terraform
 * Ansible 
