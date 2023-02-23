@@ -14,7 +14,7 @@ As a Junior DevOps Engineer I've got the knowlegde in the following tools:
 * Kubernetes
 * AWS
 * Terraform
-* Ansible (currently learning)
+* Ansible 
 
 I am constantly learning and expanding my skill set. I am excited to share my work, connect and learn from others in the tech community. Thanks for visiting!
 
