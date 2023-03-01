@@ -16,6 +16,6 @@ As a Junior DevOps Engineer I've got the knowlegde in the following tools:
 * Terraform
 * Ansible 
 
-I am constantly learning and expanding my skill set. I am excited to share my work, connect and learn from others in the tech community. Thanks for visiting!
+I am constantly learning and expanding my skill set and I am excited to share my work, connect and learn from others in the tech community. Thanks for visiting!
 
 :large_blue_circle:	:yellow_circle: SUPPORT UKRAINE :yellow_circle: :large_blue_circle: 
